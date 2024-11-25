@@ -1,10 +1,10 @@
-# Relatório do TP4
+# Relatório do TPC4
 ## Data: 2024.09.30
 ## Autor: Maria Carneiro a107242
 
 ## Resumo 
  
-O TP4 consistiu na criação de uma aplicação em Python que coloca no monitor o seguinte menu:
+O TPC4 consistiu na criação de uma aplicação em Python que coloca no monitor o seguinte menu:
 * (1) Criar Lista: lista de números aleatórios entre 1 e 100 com o número de elemntos exigidos pelo utilizador
 * (2) Ler Lista: lista com números introduzidos pelo utilizador 
 * (3) Soma: cálculo da soma dos elementos na lista no momento

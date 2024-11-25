@@ -1,5 +1,5 @@
 
-1import random
+import random
 tecla = (-1)
 lista = []
 
